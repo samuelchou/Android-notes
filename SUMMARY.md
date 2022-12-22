@@ -48,6 +48,7 @@
   * [清單：下拉與上滑](recyclerview/xia-la-yu-shang-hua.md)
 * [WebView](webview.md)
 * [Preferences 設定元件](preferences-view.md)
+* [Button](button.md)
 
 ## 使用者輸入 <a href="#input" id="input"></a>
 

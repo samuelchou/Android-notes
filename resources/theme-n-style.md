@@ -14,7 +14,7 @@
 
 {% embed url="https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d" %}
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 {% hint style="success" %}
 View Specification > Style > Default Style > Theme > TextAppearance
