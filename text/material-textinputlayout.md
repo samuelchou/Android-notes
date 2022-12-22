@@ -18,7 +18,7 @@
 
 在 error 左側設置一個 drawable
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 可以透過映射獲得 error TextView, 再透過 Compound Drawable 組裝上去：
 
@@ -64,13 +64,13 @@ fun TextInputLayout.setErrorWithStartDrawable(
 
 左側秀出一個 drawable
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 {% embed url="https://stackoverflow.com/q/34679382/9735961" %}
 
 左側秀出一個欄位標題
 
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/image.png)
 
 {% embed url="https://stackoverflow.com/q/54513250/9735961" %}
 
