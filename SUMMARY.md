@@ -11,6 +11,7 @@
 * [事件紀錄與觀察](logging.md)
 * [疑難排解](trouble-shooting/README.md)
   * [安裝失敗！](trouble-shooting/installation-failure.md)
+  * [虛擬機問題](trouble-shooting/emulators.md)
 
 ## 專案與建置基礎 <a href="#project-building" id="project-building"></a>
 
