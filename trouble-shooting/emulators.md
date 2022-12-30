@@ -83,3 +83,7 @@ PANIC: Missing emulator engine program for 'x86' CPU.
 PANIC: Avd's CPU Architecture 'x86_64' is not supported by the QEMU2 emulator on aarch64 host.
 ```
 
+...而上面這個訊息意味著你無法在 aarch64 主機上跑 x86\_64 的系統映像檔。
+
+認命點，重新安裝新的虛擬機（重下載適合的系統映像檔）吧。
+
